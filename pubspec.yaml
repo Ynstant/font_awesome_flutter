@@ -19,7 +19,7 @@ dev_dependencies:
     sdk: flutter
   version: ^3.0.2
   ansicolor: ^2.0.3
-  flutter_lints: ^5.0.0
+  flutter_lints: ^4.0.0
   pub_semver: ^2.1.4
 
 flutter:
@@ -36,14 +36,14 @@ flutter:
       fonts:
         - asset: lib/fonts/fa-solid-900.ttf
           weight: 900
-#    - family: FontAwesomeLight
-#      fonts:
-#        - asset: lib/fonts/fa-light-300.ttf
-#          weight: 300
-#    - family: FontAwesomeThin
-#      fonts:
-#        - asset: lib/fonts/fa-thin-100.ttf
-#          weight: 100
+    - family: FontAwesomeLight
+      fonts:
+        - asset: lib/fonts/fa-light-300.ttf
+          weight: 300
+    - family: FontAwesomeThin
+      fonts:
+        - asset: lib/fonts/fa-thin-100.ttf
+          weight: 100
 #    - family: FontAwesomeSharpThin
 #      fonts:
 #        - asset: lib/fonts/fa-sharp-thin-100.ttf
